@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sandu\\source\\repos\\Five\\Five\\Five.csproj": {}
+    "C:\\Users\\sandu\\source\\repos\\Six\\Six\\Six.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sandu\\source\\repos\\Five\\Five\\Five.csproj": {
+    "C:\\Users\\sandu\\source\\repos\\Six\\Six\\Six.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sandu\\source\\repos\\Five\\Five\\Five.csproj",
-        "projectName": "Five",
-        "projectPath": "C:\\Users\\sandu\\source\\repos\\Five\\Five\\Five.csproj",
+        "projectUniqueName": "C:\\Users\\sandu\\source\\repos\\Six\\Six\\Six.csproj",
+        "projectName": "Six",
+        "projectPath": "C:\\Users\\sandu\\source\\repos\\Six\\Six\\Six.csproj",
         "packagesPath": "C:\\Users\\sandu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\sandu\\source\\repos\\Five\\Five\\obj\\",
+        "outputPath": "C:\\Users\\sandu\\source\\repos\\Six\\Six\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sandu\\AppData\\Roaming\\NuGet\\NuGet.Config",
